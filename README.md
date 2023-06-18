@@ -1,4 +1,4 @@
-# timer_app
+# flutter AlarmClock Neo UI
 
 A new Flutter project.
 
